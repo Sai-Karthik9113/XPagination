@@ -13,6 +13,7 @@ function App() {
         setTableContent(res.data);
       } catch (error) {
         console.error("Error: ", error);
+        alert('Failed to fetch data');
         setTableContent([]);
       }
     }
