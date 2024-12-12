@@ -26,9 +26,9 @@
                 <table>
                     <thead>
                         <tr className={styles.headings}>
-                            <th style={{ width: '13%' }}>ID</th>
+                            <th>ID</th>
                             <th>Name</th>
-                            <th style={{ width: '40%' }}>Email</th>
+                            <th>Email</th>
                             <th>Role</th>
                         </tr>
                     </thead>
