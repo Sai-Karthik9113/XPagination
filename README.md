@@ -36,7 +36,7 @@ This React application fetches employee data from an API and displays it in a pa
 
 Here is a GIF showcasing the functionality of the paginated employee data table:
 
-![XPagination - Paginated View]()
+![XPagination - Paginated View](src/assets/screenshots/pagination.gif)
 
 ## Usage
 1. Upon loading the app, the employee data will be fetched from the API.
